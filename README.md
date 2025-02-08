@@ -1,4 +1,4 @@
-TSP - DAA Mini Project
+TRAVELLING SALESMAN 
 Overview
 A mini-project on the Traveling Salesman Problem (TSP) that explores algorithmic techniques to find the shortest route visiting all cities and returning to the start. Includes performance analysis for different approaches.
 
